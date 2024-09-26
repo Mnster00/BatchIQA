@@ -37,7 +37,7 @@ A user-friendly application for assessing the quality of images from one whole f
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/image-quality-assessment-tool.git
+   git clone https://github.com/Mnster00/BatchIQA.git
    cd image-quality-assessment-tool
    ```
 
@@ -46,10 +46,13 @@ A user-friendly application for assessing the quality of images from one whole f
    pip install opencv-python numpy scikit-image torch torchvision lpips
    ```
 
-
 ## Usage
 
-1. Double-click on `ImageQualityAssessmentTool.exe` to launch the application.
+1. Run the script:
+  ```
+  python image_quality_assessment.py
+  ```
+In the GUI:
 2. In the application window:
    - Click "Browse" next to "Reference Image" to select your reference image.
    - Click "Browse" next to "Comparison Folder" to select the folder containing images to be compared.
