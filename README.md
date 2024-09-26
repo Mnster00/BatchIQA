@@ -7,7 +7,7 @@ A user-friendly application for assessing the quality of images from one whole f
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png)" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png" style="max-width: 80%;">
 </div>
 
 
@@ -60,19 +60,19 @@ In the GUI:
 3. Once complete, a CSV file named `quality_assessment_results.csv` will be saved in the same directory as the executable.
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="(https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png)" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png" style="max-width: 80%;">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="(https://github.com/Mnster00/BatchIQA/blob/main/figs/2.png)" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/2.png" style="max-width: 80%;">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="(https://github.com/Mnster00/BatchIQA/blob/main/figs/3.png)" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/3.png" style="max-width: 80%;">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="(https://github.com/Mnster00/BatchIQA/blob/main/figs/5.png)" style="max-width: 80%;">
+  <img src="https://github.com/Mnster00/BatchIQA/blob/main/figs/5.png" style="max-width: 80%;">
 </div>
 
 
