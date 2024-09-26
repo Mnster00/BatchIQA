@@ -23,14 +23,29 @@ A user-friendly application for assessing the quality of images from one whole f
   - LPIPS (Learned Perceptual Image Patch Similarity)
 - Results saved in CSV format for easy analysis
 
-## System Requirements
+## Requirements
 
-- Windows 
+- Python 3.7 or higher
+- tkinter
+- OpenCV (cv2)
+- NumPy
+- scikit-image
+- PyTorch
+- lpips
 
-## Download and Installation
+## Installation
 
-1. Go to the [Releases](https://github.com/yourusername/image-quality-assessment-tool/releases) page of this repository.
-2. Download the latest `ImageQualityAssessmentTool.zip` file.
+1. Clone this repository:
+   ```
+   git clone https://github.com/yourusername/image-quality-assessment-tool.git
+   cd image-quality-assessment-tool
+   ```
+
+2. Install the required dependencies:
+   ```
+   pip install opencv-python numpy scikit-image torch torchvision lpips
+   ```
+
 
 ## Usage
 
@@ -57,6 +72,10 @@ A user-friendly application for assessing the quality of images from one whole f
   <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/5.png)" style="max-width: 80%;">
 </div>
 
+
+
+
+
 ## Understanding the Metrics
 
 - **PSNR**: Higher values indicate better quality. Typical values are between 20 and 40 dB.
@@ -64,5 +83,17 @@ A user-friendly application for assessing the quality of images from one whole f
 - **MSE**: Lower values indicate less difference between images.
 - **NRMSE**: Normalized version of RMSE. Lower values indicate better quality.
 - **LPIPS**: Ranges from 0 to 1. Lower values indicate greater perceptual similarity.
+
+## Troubleshooting
+
+- If you encounter "No module named" errors, ensure all dependencies are correctly installed.
+- For LPIPS-related errors, try reinstalling the lpips package:
+  ```
+  pip uninstall lpips
+  pip install lpips
+  ```
+- If images fail to load, check that they are in a supported format (PNG, JPG, JPEG, BMP, TIF).
+
+
 
 
