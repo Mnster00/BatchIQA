@@ -1,6 +1,5 @@
-# BatchIQA
 
-# Image Quality Assessment Tool
+# Batch Image Quality Assessment Tool (BatchIQA)
 
 A user-friendly application for assessing the quality of images by comparing them to a reference image using multiple metrics.
 
