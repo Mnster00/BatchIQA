@@ -1,9 +1,9 @@
 
 # Batch Image Quality Assessment Tool (BatchIQA)
 
-A user-friendly application for assessing the quality of images from one whole folder by comparing them to a reference image using multiple metrics.
+A user-friendly application for assessing the quality of images from one whole folder by comparing them to a reference image using multiple metrics. output csv file.
 
-这是一款用户友好型应用程序，可使用多种指标将一整个文件夹下的图像与参考图像进行比较，从而评估图像质量。
+这是一款用户友好型应用程序，可使用多种指标将一整个文件夹下的图像与参考图像进行比较，从而评估图像质量。输出csv文件。
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
