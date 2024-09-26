@@ -38,7 +38,7 @@ A user-friendly application for assessing the quality of images from one whole f
 1. Clone this repository:
    ```
    git clone https://github.com/Mnster00/BatchIQA.git
-   cd image-quality-assessment-tool
+   cd BatchIQA
    ```
 
 2. Install the required dependencies:
