@@ -1,9 +1,15 @@
 
 # Batch Image Quality Assessment Tool (BatchIQA)
 
-A user-friendly application for assessing the quality of images by comparing them to a reference image using multiple metrics.
+A user-friendly application for assessing the quality of images from one whole folder by comparing them to a reference image using multiple metrics.
 
-![Image Quality Assessment Tool Interface](path/to/screenshot.png)
+这是一款用户友好型应用程序，可使用多种指标将一整个文件夹下的图像与参考图像进行比较，从而评估图像质量。
+
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png)" style="max-width: 80%;">
+</div>
+
 
 ## Features
 
@@ -25,7 +31,6 @@ A user-friendly application for assessing the quality of images by comparing the
 
 1. Go to the [Releases](https://github.com/yourusername/image-quality-assessment-tool/releases) page of this repository.
 2. Download the latest `ImageQualityAssessmentTool.zip` file.
-3. Extract the ZIP file to your preferred location on your computer.
 
 ## Usage
 
@@ -35,6 +40,22 @@ A user-friendly application for assessing the quality of images by comparing the
    - Click "Browse" next to "Comparison Folder" to select the folder containing images to be compared.
    - Click "Evaluate" to start the assessment process.
 3. Once complete, a CSV file named `quality_assessment_results.csv` will be saved in the same directory as the executable.
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/1.png)" style="max-width: 80%;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/2.png)" style="max-width: 80%;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/3.png)" style="max-width: 80%;">
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="[https://github.com/Mnster00/ImageBatchCropping/blob/main/2.png](https://github.com/Mnster00/BatchIQA/blob/main/figs/5.png)" style="max-width: 80%;">
+</div>
 
 ## Understanding the Metrics
 
